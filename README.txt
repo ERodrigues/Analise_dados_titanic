@@ -1,5 +1,7 @@
-==========================================================================  Análise de dados - Titanic  ==========================================================================
+===============  Análise de dados - Titanic  =============== 
+
 Repositório contendo a análise sobre os dados da fonte do site Kaggle que contém um conjunto de dados dos passageiros do Titanic utilizando as seguintes ferramentas: 
+
 - Python 
 - Panda DataFrame 
 - Jupyter Notebook 
